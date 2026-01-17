@@ -1,0 +1,7 @@
+/target
+Cargo.lock
+*.json
+raw_scrape/
+debug/
+.env
+.DS_Store
